@@ -28,10 +28,11 @@
 
 ## Brand & voice
 
-No live site — demo fallbacks per downstream skill rules: warm/professional local-practice voice, teal + copper palette (declared, not extracted).
+No live site — demo fallbacks per downstream skill rules: warm/professional local-practice voice, teal (#0f766e) + copper (#b45309) palette and Lora/Inter type, all labeled as fallbacks in page CSS. No testimonials or stats invented.
 
 ## Delivery Log
 
 | Date | Line | Deliverable | Commit | Status |
 |---|---|---|---|---|
-| 2026-07-10 | Boost Engine | Workspace provisioned from template (public, demo, noindex) | this commit | done |
+| 2026-07-10 | Boost Engine | Workspace provisioned from template (public, demo, noindex) | 56df716 | done |
+| 2026-07-10 | Local Pages | Bend local conversion landing page (docs/index.html) | this commit | done — illustrative (demo fallbacks) |
