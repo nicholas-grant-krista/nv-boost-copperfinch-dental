@@ -1,30 +1,11 @@
-# {{CUSTOMER_NAME}} — NVM Boost
+# Copperfinch Dental Studio — Delivery Workspace (DEMO)
 
-Client delivery workspace. Created and maintained by Krista.
+> **DEMO / DRY RUN.** Copperfinch Dental Studio is a FICTIONAL client. All contact details are placeholders (example domain, 555 number). Content is illustrative only.
 
-- **Client:** {{CUSTOMER_NAME}}
-- **Slug:** {{CUSTOMER_SLUG}}
-- **Domain:** {{DOMAIN}}
-- **Active Lines:** {{ACTIVE_LINES}}
+Provisioned by NVM Boost (nv-contract-orchestrator v2.3.0) under agreement **NV-2026-DRY-001** on 2026-07-10.
 
-## What's where
+- **Client:** Copperfinch Dental Studio (fictional) · Bend, Oregon
+- **Site:** https://nicholas-grant-krista.github.io/nv-boost-copperfinch-dental/ (noindex)
+- **Active lines:** Local Pages · Paid Search · Content · SEO
 
-| Folder | In plain terms |
-|---|---|
-| `docs` | **The live website** — landing pages published to the web. (GitHub requires the publishing folder be named `docs`; think of it as "the site.") |
-| `campaigns` | Ad copy, campaign specs, and email campaigns |
-| `reports` | Monthly performance reports and audits |
-| `client-profile` | The living client profile — scope of work, brand voice, delivery history |
-
-## Naming notes for non-developers
-
-- `index.html` inside `docs` is the site's **homepage** — that filename is a web standard and can't change. Additional landing pages get plain-English names, e.g. `heel-pain-landing-page.html`.
-- The full delivery history is under the **Commits** link on this page — every filing, stamped and dated.
-- Any file ending in `.md` renders as a formatted document when you click it.
-
-## Conventions (for Krista and anyone filing manually)
-
-- Krista commits directly to `main`. No branches, no PRs.
-- Commit message format: `[<Line Name>] <description> – YYYY-MM-DD`
-- Multi-file deliverables land as one atomic commit.
-- Placeholder tokens (`{{...}}`) are resolved by Krista at provisioning time.
+See `client-profile/client-profile.md` for the Scope of Work and Delivery Log.
