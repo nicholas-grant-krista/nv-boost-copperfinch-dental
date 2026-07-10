@@ -35,4 +35,5 @@ No live site — demo fallbacks per downstream skill rules: warm/professional lo
 | Date | Line | Deliverable | Commit | Status |
 |---|---|---|---|---|
 | 2026-07-10 | Boost Engine | Workspace provisioned from template (public, demo, noindex) | 56df716 | done |
-| 2026-07-10 | Local Pages | Bend local conversion landing page (docs/index.html) | this commit | done — illustrative (demo fallbacks) |
+| 2026-07-10 | Local Pages | Bend local conversion landing page (docs/index.html) | ad70164 | done — illustrative (demo fallbacks) |
+| 2026-07-10 | Paid Search | Campaign spec + keyword CSV (spec-only; activation held at spend gate) | this commit | done — illustrative figures |

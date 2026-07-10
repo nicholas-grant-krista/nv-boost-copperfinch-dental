@@ -1,0 +1,17 @@
+Campaign,Ad Group,Keyword,Match Type,Tier,Intent,US Search Volume,Est. CPC Low,Est. CPC High,Status,Notes
+NV Copperfinch Bend Search (DEMO),Bend Dentist,dentist bend oregon,Phrase,1,Transactional,ILLUSTRATIVE,6.00,10.00,Paused,Demo spec — not activated
+NV Copperfinch Bend Search (DEMO),Bend Dentist,dentist in bend,Phrase,1,Transactional,ILLUSTRATIVE,6.00,10.00,Paused,Demo spec
+NV Copperfinch Bend Search (DEMO),Bend Dentist,bend family dentist,Phrase,1,Transactional,ILLUSTRATIVE,5.00,9.00,Paused,Demo spec
+NV Copperfinch Bend Search (DEMO),Bend Dentist,cosmetic dentist bend,Phrase,1,Commercial,ILLUSTRATIVE,6.00,12.00,Paused,Demo spec
+NV Copperfinch Bend Search (DEMO),Bend Dentist,dentist near me,Phrase,1,Transactional,ILLUSTRATIVE,7.00,14.00,Paused,Geo-constrained by campaign location
+NV Copperfinch Bend Search (DEMO),Bend Dentist,emergency dentist bend,Phrase,2,Transactional,ILLUSTRATIVE,8.00,15.00,Paused,T2 — page section needed
+NV Copperfinch Bend Search (DEMO),Bend Dentist,teeth whitening bend,Phrase,2,Commercial,ILLUSTRATIVE,4.00,8.00,Paused,T2
+NV Copperfinch Bend Search (DEMO),Bend Dentist,dental crowns bend,Phrase,2,Commercial,ILLUSTRATIVE,5.00,10.00,Paused,T2
+NV Copperfinch Bend Search (DEMO),NEGATIVE,how to,Phrase,-,Informational,-,-,-,Negative,Bucket: informational/DIY
+NV Copperfinch Bend Search (DEMO),NEGATIVE,home remedy,Phrase,-,Informational,-,-,-,Negative,Bucket: informational/DIY
+NV Copperfinch Bend Search (DEMO),NEGATIVE,free,Broad,-,Low-value,-,-,-,Negative,Bucket: free/cheap
+NV Copperfinch Bend Search (DEMO),NEGATIVE,cheap,Broad,-,Low-value,-,-,-,Negative,Bucket: free/cheap
+NV Copperfinch Bend Search (DEMO),NEGATIVE,jobs,Broad,-,Wrong audience,-,-,-,Negative,Bucket: jobs/education
+NV Copperfinch Bend Search (DEMO),NEGATIVE,hygienist program,Phrase,-,Wrong audience,-,-,-,Negative,Bucket: jobs/education
+NV Copperfinch Bend Search (DEMO),NEGATIVE,dental lab,Phrase,-,Wrong audience,-,-,-,Negative,Bucket: wrong audience
+NV Copperfinch Bend Search (DEMO),NEGATIVE,veterinary,Broad,-,Wrong audience,-,-,-,Negative,Bucket: wrong audience
